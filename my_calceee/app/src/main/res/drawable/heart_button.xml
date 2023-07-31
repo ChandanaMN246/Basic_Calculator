@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- heart_button.xml -->
+<!-- heart_button.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="50dp"
+    android:height="50dp"
+    android:viewportWidth="50"
+    android:viewportHeight="50">
+
+    <path
+        android:fillColor="#FF69B4"
+    android:pathData="M25,8
+    C25,8,19,4,13,8
+    C6,12,2,19,2,23
+    C2,29,9,36,25,42
+    C41,36,48,29,48,23
+    C48,19,44,12,37,8
+    C31,4,25,8,25,8z" />
+
+</vector>
+

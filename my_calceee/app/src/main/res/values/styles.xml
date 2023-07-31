@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+        <item name="android:textColorPrimary">#FF1493</item> <!-- Pink color for app name -->
+        <!-- ... Other style customizations ... -->
+    </style>
+</resources>
